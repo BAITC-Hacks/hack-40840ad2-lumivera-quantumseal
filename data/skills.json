@@ -1,0 +1,602 @@
+[
+  {
+    "id": "S001",
+    "name": "Планирование 1",
+    "track": "Management",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S002",
+    "name": "Обратная связь 1",
+    "track": "Management",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S003",
+    "name": "Делегирование 1",
+    "track": "Management",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S004",
+    "name": "Управление рисками 1",
+    "track": "Management",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S005",
+    "name": "Коммуникация 1",
+    "track": "Management",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S006",
+    "name": "Планирование 2",
+    "track": "Management",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S007",
+    "name": "Обратная связь 2",
+    "track": "Management",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S008",
+    "name": "Делегирование 2",
+    "track": "Management",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S009",
+    "name": "Управление рисками 2",
+    "track": "Management",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S010",
+    "name": "Коммуникация 2",
+    "track": "Management",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S011",
+    "name": "Планирование 3",
+    "track": "Management",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S012",
+    "name": "Обратная связь 3",
+    "track": "Management",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S013",
+    "name": "Делегирование 3",
+    "track": "Management",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S014",
+    "name": "Управление рисками 3",
+    "track": "Management",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S015",
+    "name": "Коммуникация 3",
+    "track": "Management",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S016",
+    "name": "Планирование 4",
+    "track": "Management",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S017",
+    "name": "Обратная связь 4",
+    "track": "Management",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S018",
+    "name": "Делегирование 4",
+    "track": "Management",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S019",
+    "name": "Управление рисками 4",
+    "track": "Management",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S020",
+    "name": "Коммуникация 4",
+    "track": "Management",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S021",
+    "name": "Планирование 5",
+    "track": "Product",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S022",
+    "name": "Обратная связь 5",
+    "track": "Product",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S023",
+    "name": "Делегирование 5",
+    "track": "Product",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S024",
+    "name": "Управление рисками 5",
+    "track": "Product",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S025",
+    "name": "Коммуникация 5",
+    "track": "Product",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S026",
+    "name": "Планирование 6",
+    "track": "Product",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S027",
+    "name": "Обратная связь 6",
+    "track": "Product",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S028",
+    "name": "Делегирование 6",
+    "track": "Product",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S029",
+    "name": "Управление рисками 6",
+    "track": "Product",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S030",
+    "name": "Коммуникация 6",
+    "track": "Product",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S031",
+    "name": "Планирование 7",
+    "track": "Product",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S032",
+    "name": "Обратная связь 7",
+    "track": "Product",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S033",
+    "name": "Делегирование 7",
+    "track": "Product",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S034",
+    "name": "Управление рисками 7",
+    "track": "Product",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S035",
+    "name": "Коммуникация 7",
+    "track": "Product",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S036",
+    "name": "Планирование 8",
+    "track": "Product",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S037",
+    "name": "Обратная связь 8",
+    "track": "Product",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S038",
+    "name": "Делегирование 8",
+    "track": "Product",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S039",
+    "name": "Управление рисками 8",
+    "track": "Product",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S040",
+    "name": "Коммуникация 8",
+    "track": "Product",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S041",
+    "name": "Планирование 9",
+    "track": "Engineering",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S042",
+    "name": "Обратная связь 9",
+    "track": "Engineering",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S043",
+    "name": "Делегирование 9",
+    "track": "Engineering",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S044",
+    "name": "Управление рисками 9",
+    "track": "Engineering",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S045",
+    "name": "Коммуникация 9",
+    "track": "Engineering",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S046",
+    "name": "Планирование 10",
+    "track": "Engineering",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S047",
+    "name": "Обратная связь 10",
+    "track": "Engineering",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S048",
+    "name": "Делегирование 10",
+    "track": "Engineering",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S049",
+    "name": "Управление рисками 10",
+    "track": "Engineering",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S050",
+    "name": "Коммуникация 10",
+    "track": "Engineering",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S051",
+    "name": "Планирование 11",
+    "track": "Engineering",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S052",
+    "name": "Обратная связь 11",
+    "track": "Engineering",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S053",
+    "name": "Делегирование 11",
+    "track": "Engineering",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S054",
+    "name": "Управление рисками 11",
+    "track": "Engineering",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S055",
+    "name": "Коммуникация 11",
+    "track": "Engineering",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S056",
+    "name": "Планирование 12",
+    "track": "Engineering",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S057",
+    "name": "Обратная связь 12",
+    "track": "Engineering",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S058",
+    "name": "Делегирование 12",
+    "track": "Engineering",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S059",
+    "name": "Управление рисками 12",
+    "track": "Engineering",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  },
+  {
+    "id": "S060",
+    "name": "Коммуникация 12",
+    "track": "Engineering",
+    "requirements": {
+      "Junior": 1,
+      "Middle": 3,
+      "Senior": 5
+    }
+  }
+]

@@ -1,0 +1,9 @@
+test_access_and_input (test_mvp.MVPTest.test_access_and_input) ... ok
+test_dataset_and_three_profiles (test_mvp.MVPTest.test_dataset_and_three_profiles) ... ok
+test_empty_catalog_and_closed_gap (test_mvp.MVPTest.test_empty_catalog_and_closed_gap) ... ok
+test_progress_persistence_and_idempotency (test_mvp.MVPTest.test_progress_persistence_and_idempotency) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 2.468s
+
+OK

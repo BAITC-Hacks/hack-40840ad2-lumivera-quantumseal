@@ -1,0 +1,602 @@
+[
+  {
+    "id": "EV001",
+    "title": "Практика 01: Management",
+    "format": "workshop",
+    "hours": 2,
+    "active": true,
+    "prerequisites": {},
+    "gains": {
+      "S001": 1,
+      "S005": 1,
+      "S009": 1,
+      "S013": 1,
+      "S017": 1
+    }
+  },
+  {
+    "id": "EV002",
+    "title": "Практика 02: Product",
+    "format": "workshop",
+    "hours": 3,
+    "active": true,
+    "prerequisites": {},
+    "gains": {
+      "S021": 1,
+      "S025": 1,
+      "S029": 1,
+      "S033": 1,
+      "S037": 1
+    }
+  },
+  {
+    "id": "EV003",
+    "title": "Практика 03: Engineering",
+    "format": "workshop",
+    "hours": 4,
+    "active": true,
+    "prerequisites": {},
+    "gains": {
+      "S041": 1,
+      "S045": 1,
+      "S049": 1,
+      "S053": 1,
+      "S057": 1
+    }
+  },
+  {
+    "id": "EV004",
+    "title": "Практика 04: Management",
+    "format": "course",
+    "hours": 5,
+    "active": true,
+    "prerequisites": {},
+    "gains": {
+      "S002": 1,
+      "S006": 1,
+      "S010": 1,
+      "S014": 1,
+      "S018": 1
+    }
+  },
+  {
+    "id": "EV005",
+    "title": "Практика 05: Product",
+    "format": "course",
+    "hours": 2,
+    "active": true,
+    "prerequisites": {},
+    "gains": {
+      "S022": 1,
+      "S026": 1,
+      "S030": 1,
+      "S034": 1,
+      "S038": 1
+    }
+  },
+  {
+    "id": "EV006",
+    "title": "Практика 06: Engineering",
+    "format": "course",
+    "hours": 3,
+    "active": true,
+    "prerequisites": {},
+    "gains": {
+      "S042": 1,
+      "S046": 1,
+      "S050": 1,
+      "S054": 1,
+      "S058": 1
+    }
+  },
+  {
+    "id": "EV007",
+    "title": "Практика 07: Management",
+    "format": "mentoring",
+    "hours": 4,
+    "active": true,
+    "prerequisites": {},
+    "gains": {
+      "S003": 1,
+      "S007": 1,
+      "S011": 1,
+      "S015": 1,
+      "S019": 1
+    }
+  },
+  {
+    "id": "EV008",
+    "title": "Практика 08: Product",
+    "format": "mentoring",
+    "hours": 5,
+    "active": true,
+    "prerequisites": {},
+    "gains": {
+      "S023": 1,
+      "S027": 1,
+      "S031": 1,
+      "S035": 1,
+      "S039": 1
+    }
+  },
+  {
+    "id": "EV009",
+    "title": "Практика 09: Engineering",
+    "format": "mentoring",
+    "hours": 2,
+    "active": true,
+    "prerequisites": {},
+    "gains": {
+      "S043": 1,
+      "S047": 1,
+      "S051": 1,
+      "S055": 1,
+      "S059": 1
+    }
+  },
+  {
+    "id": "EV010",
+    "title": "Практика 10: Management",
+    "format": "workshop",
+    "hours": 3,
+    "active": true,
+    "prerequisites": {},
+    "gains": {
+      "S004": 1,
+      "S008": 1,
+      "S012": 1,
+      "S016": 1,
+      "S020": 1
+    }
+  },
+  {
+    "id": "EV011",
+    "title": "Практика 11: Product",
+    "format": "workshop",
+    "hours": 4,
+    "active": true,
+    "prerequisites": {},
+    "gains": {
+      "S024": 1,
+      "S028": 1,
+      "S032": 1,
+      "S036": 1,
+      "S040": 1
+    }
+  },
+  {
+    "id": "EV012",
+    "title": "Практика 12: Engineering",
+    "format": "workshop",
+    "hours": 5,
+    "active": true,
+    "prerequisites": {},
+    "gains": {
+      "S044": 1,
+      "S048": 1,
+      "S052": 1,
+      "S056": 1,
+      "S060": 1
+    }
+  },
+  {
+    "id": "EV013",
+    "title": "Практика 13: Management",
+    "format": "course",
+    "hours": 2,
+    "active": true,
+    "prerequisites": {},
+    "gains": {
+      "S001": 1,
+      "S005": 1,
+      "S009": 1,
+      "S013": 1,
+      "S017": 1
+    }
+  },
+  {
+    "id": "EV014",
+    "title": "Практика 14: Product",
+    "format": "course",
+    "hours": 3,
+    "active": true,
+    "prerequisites": {},
+    "gains": {
+      "S021": 1,
+      "S025": 1,
+      "S029": 1,
+      "S033": 1,
+      "S037": 1
+    }
+  },
+  {
+    "id": "EV015",
+    "title": "Практика 15: Engineering",
+    "format": "course",
+    "hours": 4,
+    "active": true,
+    "prerequisites": {},
+    "gains": {
+      "S041": 1,
+      "S045": 1,
+      "S049": 1,
+      "S053": 1,
+      "S057": 1
+    }
+  },
+  {
+    "id": "EV016",
+    "title": "Практика 16: Management",
+    "format": "mentoring",
+    "hours": 5,
+    "active": true,
+    "prerequisites": {},
+    "gains": {
+      "S002": 1,
+      "S006": 1,
+      "S010": 1,
+      "S014": 1,
+      "S018": 1
+    }
+  },
+  {
+    "id": "EV017",
+    "title": "Практика 17: Product",
+    "format": "mentoring",
+    "hours": 2,
+    "active": true,
+    "prerequisites": {},
+    "gains": {
+      "S022": 1,
+      "S026": 1,
+      "S030": 1,
+      "S034": 1,
+      "S038": 1
+    }
+  },
+  {
+    "id": "EV018",
+    "title": "Практика 18: Engineering",
+    "format": "mentoring",
+    "hours": 3,
+    "active": true,
+    "prerequisites": {},
+    "gains": {
+      "S042": 1,
+      "S046": 1,
+      "S050": 1,
+      "S054": 1,
+      "S058": 1
+    }
+  },
+  {
+    "id": "EV019",
+    "title": "Практика 19: Management",
+    "format": "workshop",
+    "hours": 4,
+    "active": true,
+    "prerequisites": {},
+    "gains": {
+      "S003": 1,
+      "S007": 1,
+      "S011": 1,
+      "S015": 1,
+      "S019": 1
+    }
+  },
+  {
+    "id": "EV020",
+    "title": "Практика 20: Product",
+    "format": "workshop",
+    "hours": 5,
+    "active": true,
+    "prerequisites": {},
+    "gains": {
+      "S023": 1,
+      "S027": 1,
+      "S031": 1,
+      "S035": 1,
+      "S039": 1
+    }
+  },
+  {
+    "id": "EV021",
+    "title": "Практика 21: Engineering",
+    "format": "workshop",
+    "hours": 2,
+    "active": true,
+    "prerequisites": {},
+    "gains": {
+      "S043": 1,
+      "S047": 1,
+      "S051": 1,
+      "S055": 1,
+      "S059": 1
+    }
+  },
+  {
+    "id": "EV022",
+    "title": "Практика 22: Management",
+    "format": "course",
+    "hours": 3,
+    "active": true,
+    "prerequisites": {},
+    "gains": {
+      "S004": 1,
+      "S008": 1,
+      "S012": 1,
+      "S016": 1,
+      "S020": 1
+    }
+  },
+  {
+    "id": "EV023",
+    "title": "Практика 23: Product",
+    "format": "course",
+    "hours": 4,
+    "active": true,
+    "prerequisites": {},
+    "gains": {
+      "S024": 1,
+      "S028": 1,
+      "S032": 1,
+      "S036": 1,
+      "S040": 1
+    }
+  },
+  {
+    "id": "EV024",
+    "title": "Практика 24: Engineering",
+    "format": "course",
+    "hours": 5,
+    "active": true,
+    "prerequisites": {},
+    "gains": {
+      "S044": 1,
+      "S048": 1,
+      "S052": 1,
+      "S056": 1,
+      "S060": 1
+    }
+  },
+  {
+    "id": "EV025",
+    "title": "Практика 25: Management",
+    "format": "mentoring",
+    "hours": 2,
+    "active": true,
+    "prerequisites": {},
+    "gains": {
+      "S001": 1,
+      "S005": 1,
+      "S009": 1,
+      "S013": 1,
+      "S017": 1
+    }
+  },
+  {
+    "id": "EV026",
+    "title": "Практика 26: Product",
+    "format": "mentoring",
+    "hours": 3,
+    "active": true,
+    "prerequisites": {},
+    "gains": {
+      "S021": 1,
+      "S025": 1,
+      "S029": 1,
+      "S033": 1,
+      "S037": 1
+    }
+  },
+  {
+    "id": "EV027",
+    "title": "Практика 27: Engineering",
+    "format": "mentoring",
+    "hours": 4,
+    "active": true,
+    "prerequisites": {},
+    "gains": {
+      "S041": 1,
+      "S045": 1,
+      "S049": 1,
+      "S053": 1,
+      "S057": 1
+    }
+  },
+  {
+    "id": "EV028",
+    "title": "Практика 28: Management",
+    "format": "workshop",
+    "hours": 5,
+    "active": true,
+    "prerequisites": {},
+    "gains": {
+      "S002": 1,
+      "S006": 1,
+      "S010": 1,
+      "S014": 1,
+      "S018": 1
+    }
+  },
+  {
+    "id": "EV029",
+    "title": "Практика 29: Product",
+    "format": "workshop",
+    "hours": 2,
+    "active": true,
+    "prerequisites": {},
+    "gains": {
+      "S022": 1,
+      "S026": 1,
+      "S030": 1,
+      "S034": 1,
+      "S038": 1
+    }
+  },
+  {
+    "id": "EV030",
+    "title": "Практика 30: Engineering",
+    "format": "workshop",
+    "hours": 3,
+    "active": true,
+    "prerequisites": {},
+    "gains": {
+      "S042": 1,
+      "S046": 1,
+      "S050": 1,
+      "S054": 1,
+      "S058": 1
+    }
+  },
+  {
+    "id": "EV031",
+    "title": "Практика 31: Management",
+    "format": "course",
+    "hours": 4,
+    "active": true,
+    "prerequisites": {},
+    "gains": {
+      "S003": 1,
+      "S007": 1,
+      "S011": 1,
+      "S015": 1,
+      "S019": 1
+    }
+  },
+  {
+    "id": "EV032",
+    "title": "Практика 32: Product",
+    "format": "course",
+    "hours": 5,
+    "active": true,
+    "prerequisites": {},
+    "gains": {
+      "S023": 1,
+      "S027": 1,
+      "S031": 1,
+      "S035": 1,
+      "S039": 1
+    }
+  },
+  {
+    "id": "EV033",
+    "title": "Практика 33: Engineering",
+    "format": "course",
+    "hours": 2,
+    "active": true,
+    "prerequisites": {},
+    "gains": {
+      "S043": 1,
+      "S047": 1,
+      "S051": 1,
+      "S055": 1,
+      "S059": 1
+    }
+  },
+  {
+    "id": "EV034",
+    "title": "Практика 34: Management",
+    "format": "mentoring",
+    "hours": 3,
+    "active": true,
+    "prerequisites": {},
+    "gains": {
+      "S004": 1,
+      "S008": 1,
+      "S012": 1,
+      "S016": 1,
+      "S020": 1
+    }
+  },
+  {
+    "id": "EV035",
+    "title": "Практика 35: Product",
+    "format": "mentoring",
+    "hours": 4,
+    "active": true,
+    "prerequisites": {},
+    "gains": {
+      "S024": 1,
+      "S028": 1,
+      "S032": 1,
+      "S036": 1,
+      "S040": 1
+    }
+  },
+  {
+    "id": "EV036",
+    "title": "Практика 36: Engineering",
+    "format": "mentoring",
+    "hours": 5,
+    "active": true,
+    "prerequisites": {},
+    "gains": {
+      "S044": 1,
+      "S048": 1,
+      "S052": 1,
+      "S056": 1,
+      "S060": 1
+    }
+  },
+  {
+    "id": "EV037",
+    "title": "Практика 37: Management",
+    "format": "workshop",
+    "hours": 2,
+    "active": true,
+    "prerequisites": {},
+    "gains": {
+      "S001": 1,
+      "S005": 1,
+      "S009": 1,
+      "S013": 1,
+      "S017": 1
+    }
+  },
+  {
+    "id": "EV038",
+    "title": "Практика 38: Product",
+    "format": "workshop",
+    "hours": 3,
+    "active": true,
+    "prerequisites": {},
+    "gains": {
+      "S021": 1,
+      "S025": 1,
+      "S029": 1,
+      "S033": 1,
+      "S037": 1
+    }
+  },
+  {
+    "id": "EV039",
+    "title": "Практика 39: Engineering",
+    "format": "workshop",
+    "hours": 4,
+    "active": true,
+    "prerequisites": {},
+    "gains": {
+      "S041": 1,
+      "S045": 1,
+      "S049": 1,
+      "S053": 1,
+      "S057": 1
+    }
+  },
+  {
+    "id": "EV040",
+    "title": "Практика 40: Management",
+    "format": "course",
+    "hours": 5,
+    "active": true,
+    "prerequisites": {},
+    "gains": {
+      "S002": 1,
+      "S006": 1,
+      "S010": 1,
+      "S014": 1,
+      "S018": 1
+    }
+  }
+]

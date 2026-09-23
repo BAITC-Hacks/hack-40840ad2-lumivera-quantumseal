@@ -1,0 +1,37 @@
+test_access_and_input (test_mvp.MVPTest.test_access_and_input) ... 127.0.0.1 - - [23/Sep/2026 17:28:12] "GET /api/hr HTTP/1.1" 401 -
+127.0.0.1 - - [23/Sep/2026 17:28:12] "POST /api/login HTTP/1.1" 401 -
+127.0.0.1 - - [23/Sep/2026 17:28:12] "POST /api/login HTTP/1.1" 200 -
+127.0.0.1 - - [23/Sep/2026 17:28:12] "GET /api/me HTTP/1.1" 200 -
+127.0.0.1 - - [23/Sep/2026 17:28:12] "GET /api/hr HTTP/1.1" 403 -
+127.0.0.1 - - [23/Sep/2026 17:28:12] "GET /api/profile?employee_id=E002 HTTP/1.1" 403 -
+127.0.0.1 - - [23/Sep/2026 17:28:12] "POST /api/complete HTTP/1.1" 400 -
+127.0.0.1 - - [23/Sep/2026 17:28:12] "POST /api/complete HTTP/1.1" 400 -
+127.0.0.1 - - [23/Sep/2026 17:28:12] "POST /api/complete HTTP/1.1" 403 -
+127.0.0.1 - - [23/Sep/2026 17:28:12] "POST /api/login HTTP/1.1" 200 -
+127.0.0.1 - - [23/Sep/2026 17:28:12] "GET /api/me HTTP/1.1" 200 -
+127.0.0.1 - - [23/Sep/2026 17:28:12] "GET /api/hr HTTP/1.1" 200 -
+127.0.0.1 - - [23/Sep/2026 17:28:12] "POST /api/complete HTTP/1.1" 403 -
+ok
+test_dataset_and_three_profiles (test_mvp.MVPTest.test_dataset_and_three_profiles) ... 127.0.0.1 - - [23/Sep/2026 17:28:12] "POST /api/login HTTP/1.1" 200 -
+127.0.0.1 - - [23/Sep/2026 17:28:12] "GET /api/me HTTP/1.1" 200 -
+127.0.0.1 - - [23/Sep/2026 17:28:12] "GET /api/profile HTTP/1.1" 200 -
+127.0.0.1 - - [23/Sep/2026 17:28:12] "POST /api/login HTTP/1.1" 200 -
+127.0.0.1 - - [23/Sep/2026 17:28:12] "GET /api/me HTTP/1.1" 200 -
+127.0.0.1 - - [23/Sep/2026 17:28:12] "GET /api/profile HTTP/1.1" 200 -
+127.0.0.1 - - [23/Sep/2026 17:28:12] "POST /api/login HTTP/1.1" 200 -
+127.0.0.1 - - [23/Sep/2026 17:28:12] "GET /api/me HTTP/1.1" 200 -
+127.0.0.1 - - [23/Sep/2026 17:28:12] "GET /api/profile HTTP/1.1" 200 -
+ok
+test_empty_catalog_and_closed_gap (test_mvp.MVPTest.test_empty_catalog_and_closed_gap) ... ok
+test_progress_persistence_and_idempotency (test_mvp.MVPTest.test_progress_persistence_and_idempotency) ... 127.0.0.1 - - [23/Sep/2026 17:28:13] "POST /api/login HTTP/1.1" 200 -
+127.0.0.1 - - [23/Sep/2026 17:28:13] "GET /api/me HTTP/1.1" 200 -
+127.0.0.1 - - [23/Sep/2026 17:28:13] "GET /api/profile HTTP/1.1" 200 -
+127.0.0.1 - - [23/Sep/2026 17:28:13] "POST /api/complete HTTP/1.1" 200 -
+127.0.0.1 - - [23/Sep/2026 17:28:13] "GET /api/profile HTTP/1.1" 200 -
+127.0.0.1 - - [23/Sep/2026 17:28:13] "POST /api/complete HTTP/1.1" 200 -
+ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 2.466s
+
+OK
